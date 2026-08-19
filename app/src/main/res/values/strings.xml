@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Hands-on-1</string>
+
+    <string name="title">AI Assistant</string>
+
+    <string name="hint_prompt">Enter your prompt...</string>
+
+    <string name="ask_ai">Ask AI</string>
+
+    <string name="response">Response will appear here...</string>
+
+</resources>
